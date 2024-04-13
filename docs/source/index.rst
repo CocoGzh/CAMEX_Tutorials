@@ -12,7 +12,6 @@ STAligner: Integrating spatial transcriptomics data across different conditions,
    Tutorial_DLPFC
    Tutorial_DLPFC_12S
    Tutorial_Cross_Platforms
-   Tutorial_embryo
    liver_analysis_UMAP_new
    Tutorial_3D_alignment
    
