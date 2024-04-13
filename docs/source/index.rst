@@ -9,16 +9,16 @@ STAligner: Integrating spatial transcriptomics data across different conditions,
 .. toctree::
    :maxdepth: 1
    
-   Tutorial_DLPFC
-   Tutorial_DLPFC_12S
-   Tutorial_Cross_Platforms
-   Tutorial_embryo
-   Tutorial_3D_alignment
+   1liver_analysis_UMAP_new
+   2testis_analysis_UMAP_new
+   3bulk_analysis_UMAP_new
+   4cortex_analysis_UMAP_new
+   5micro_analysis_UMAP_new
    
    
 Overview of STAligner
 ========================     
-.. image:: STAligner_Overview.png
+.. image:: CAMEX_overview.png
    :width: 600
    
     
