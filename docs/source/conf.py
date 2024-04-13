@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'STAligner'
-copyright = '2022, Xiang Zhou'
-author = 'Xiang Zhou'
+project = 'CAMEX'
+copyright = '2024, Zhenhao Guo'
+author = 'Zhenhao Guo'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = 'v.0.0.2'
 
 
 # -- General configuration ---------------------------------------------------

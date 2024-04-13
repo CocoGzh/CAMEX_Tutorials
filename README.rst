@@ -1,1 +1,1 @@
-STAligner_tutorials
+CAMEX_tutorials
