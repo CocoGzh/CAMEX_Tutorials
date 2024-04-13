@@ -9,11 +9,11 @@ STAligner: Integrating spatial transcriptomics data across different conditions,
 .. toctree::
    :maxdepth: 1
    
-   Tutorial_DLPFC
-   Tutorial_DLPFC_12S
-   Tutorial_Cross_Platforms
-   liver_analysis_UMAP_new
-   Tutorial_3D_alignment
+   Integrate_liver_across_4_species
+   Integrate_testis_across_11_species
+   Integrate_RNAseq_across_11_species
+   integration_annotation_in_relatives_distant_species
+   discovery_new_populations_markers
    
    
 Overview of STAligner
