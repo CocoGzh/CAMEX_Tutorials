@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb2e1ab-3e5b-4fc2-997b-00ca1468685c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CAMEX_Tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CAMEX_Tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,9 @@
       <workItem from="1713017478995" duration="989000" />
       <workItem from="1744181924365" duration="10000" />
       <workItem from="1744184213927" duration="159000" />
+      <workItem from="1749884393364" duration="1229000" />
+      <workItem from="1761413105557" duration="18000" />
+      <workItem from="1761413133502" duration="598000" />
     </task>
     <servers />
   </component>
